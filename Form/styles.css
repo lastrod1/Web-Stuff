@@ -1,0 +1,45 @@
+/*
+Color Palette: 
+Dark green thing: #0A400C
+Semi dark pastel green thing: #819067
+More of a light brown pastel; #B1AB86
+Cream white thing: #FEFAE0
+*/
+
+h1 {
+  text-align: center;
+  color: #fefae0;
+}
+
+p {
+  text-align: center;
+  color: #fefae0;
+}
+
+body {
+  background: #0A400C;
+}
+
+label {
+  color: #fefae0;
+}
+
+input {
+  margin-left: 5px;
+  color: black;
+}
+
+fieldset {
+  max-width: 35%;
+  margin: auto;
+}
+
+.address {
+  text-align: center;
+  margin-top: 0px;
+}
+
+input[type=submit] {
+  margin-top: 10px;
+  margin-left: 0;
+}
